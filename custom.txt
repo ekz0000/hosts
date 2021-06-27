@@ -8625,14 +8625,11 @@
 0.0.0.0 zypmedia.com
 0.0.0.0 zz.am
 0.0.0.0 zzux.com
-0.0.0.0 ab1n.net
-0.0.0.0 ackcdn.net
-0.0.0.0 realsrv.com
-0.0.0.0 stripchat.com
-0.0.0.0 kts.vasstycom.com
-0.0.0.0 tsyndicate.com
-0.0.0.0 lcdn.tsyndicate.com
-0.0.0.0 vasstycom.com
-0.0.0.0 syndication.realsrv.com
-0.0.0.0 bangbros.com
-0.0.0.0 gamingadult.com
+(\.|ab1n.net\.net$
+(\.|ackcdn\.net$
+(\.|realsrv\.com$
+(\.|stripchat\.com$
+(\.|vasstycom\.com$
+(\.|tsyndicate\.com$
+(\.|bangbros\.com$
+(\.|gamingadult\.com$
