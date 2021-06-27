@@ -8626,11 +8626,11 @@
 0.0.0.0 zz.am
 0.0.0.0 zzux.com
 
-(\.|ab1n\.net$
-(\.|ackcdn\.net$
-(\.|realsrv\.com$
-(\.|stripchat\.com$
-(\.|vasstycom\.com$
-(\.|tsyndicate\.com$
-(\.|bangbros\.com$
-(\.|gamingadult\.com$
+ab1n.net
+ackcdn.net
+realsrv.com
+stripchat.com
+vasstycom.com
+tsyndicate.com
+bangbros.com
+gamingadult.com
