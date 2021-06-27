@@ -8626,7 +8626,7 @@
 0.0.0.0 zz.am
 0.0.0.0 zzux.com
 
-(\.|ab1n.net\.net$
+(\.|ab1n\.net$
 (\.|ackcdn\.net$
 (\.|realsrv\.com$
 (\.|stripchat\.com$
